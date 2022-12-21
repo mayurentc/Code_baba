@@ -1,2 +1,5 @@
 def add(x,y):
-    pass
+    return x+y
+
+sum = add(10,20)
+print('Sum is : ', sum)
